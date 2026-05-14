@@ -1,4 +1,4 @@
-package org.example.stinproj.service;
+package com.example.stinsem.service;
 
 import org.example.stinproj.model.ExchangeRateResponse;
 import org.example.stinproj.model.ExchangeRateResponseDate;
